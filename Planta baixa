@@ -1,0 +1,20 @@
+Departamentos:
+- Financeiro
+- RH
+- Desenvolvedores
+- Infraestrutura
+- Logistica
+- Segurança
+- Gerência
+
+Equipamentos:
+- Financeiro: Servidor, Computadores, Impressora, Switch
+- RH: Servidor,Computadores, Impressora, Switch
+- Desenvolvedores: Servidor, Computadores , Switch
+- Infraestrutura: Servidor, Switch, Roteadores
+- Logistica: Computadores, Servidor, Impressoras, Roteador
+- Segurança: Computadores, Servidor, Switch
+- Gerência: Computadores , Servidor, switch
+
+
+
