@@ -1,7 +1,11 @@
 Classe de Rede: Classe C (192.168.0.0)
-
+Máscara da rede (255.255.255.0)
 
 Padrão de Rede:
 - Financeiro: 192.168.0.1 - 25
 - RH: 192.168.0.21 - 50
-- Produção: 192.168.0.51 - 75
+- Desenvolvedores - 192.168.0.51 - 75
+- Infraestrutura - 192.168.0.76 - 100
+- Logistica - 192.168.0.101 - 125
+- Segurança - 192.168.0.126 - 150
+- Gerência - 192.168.0.151 - 200
